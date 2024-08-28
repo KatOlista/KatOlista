@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I’m a highly skilled Full-Stack Developer, proficient in JavaScript, TypeScript, HTML, CSS, and SASS.<br>I possess a deep understanding of the JavaScript framework, React.<br>I have experience in teamwork.<br>I’m confident that my skills and background can greatly contribute to your team’s success!
+I’m a highly skilled Front-End Developer, proficient in JavaScript, TypeScript, HTML, CSS, and SASS.<br>I possess a deep understanding of the JavaScript framework, React.<br>I have experience in teamwork.<br>I’m confident that my skills and background can greatly contribute to your team’s success!
 
 
 ## 🌐 Socials:
